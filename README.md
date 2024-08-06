@@ -3,3 +3,5 @@
 Interested in Front-End - React.JS / Next.JS / Javascript / HTML & CSS
 
 Also in Python - Selenium / BeautifulSoup4
+
+Now Studying Java - Spring
